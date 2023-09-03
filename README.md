@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asi1729,Just opened github account
 - 👀 I’m interested in Open Source Work
-- 🌱 I’m currently learning C++,Java and Python
+- 🌱 I’m currently learning C++,Java,mongoDB,cloud computing,computer vision and Python
 - 💞️ I’m looking for Study Buddy..will grow together side by side
 - Looking for your guidance...
 - Thanks for Your time..
